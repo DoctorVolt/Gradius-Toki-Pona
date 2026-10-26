@@ -1,2 +1,8 @@
 # Gradius-Toki-Pona
-A translation of Gradius for the NES into the constructed language Toki Pona. Posted here in a repository at the recommendation of jan Pawasi. 
+This is a full translation of Gradius into the constructed language Toki Pona. Embark on an adventure to defend Gradius from the evil Bacterions! 
+
+Gameplay is entirely unchanged. All text has been edited, along with a few graphics containing text. 
+
+Translation is only available in sitelen Lasina. 
+
+Patch is meant to apply to `Gradius (U).nes`.
