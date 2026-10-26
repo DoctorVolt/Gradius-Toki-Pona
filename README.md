@@ -5,4 +5,4 @@ Gameplay is entirely unchanged. All text has been edited, along with a few graph
 
 Translation is only available in sitelen Lasina. 
 
-Patch is meant to apply to `Gradius (U).nes`.
+Patch is meant to apply to `Gradius (USA).nes`.
